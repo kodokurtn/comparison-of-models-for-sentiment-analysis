@@ -1,5 +1,4 @@
-# comparison-of-models-for-sentiment-analysis
-#Сравнение моделей для сентиментного анализа текста 
+# Сравнение моделей для сентиментного анализа текста 
 в ноутбуке comprasion.ipynb содержится код, в котором сравниваются между собой 3 модели для сентиментного анализа текста
 
 1.	blanchefort/rubert-base-cased-sentiment, которая основана на модели DeepPavlov/rubert-base-cased-conversational, и обучена на таких датасетах как: RuTweetCorp, RuReviews, RuSentiment и отзывах о медучреждениях;
